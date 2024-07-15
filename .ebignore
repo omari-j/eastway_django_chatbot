@@ -1,0 +1,40 @@
+# Virtual Environments
+venv/
+*.pyc
+.venv
+
+# Version Control
+.git
+.gitignore
+.gitmodules
+.gitattributes
+
+# Local Configuration
+local_settings.py
+
+# Logs and Temporary Files
+logs/
+*.log
+.DS_Store
+.idea
+__pycache__/
+.pytest_cache/
+
+# IDE Configuration
+.vscode/
+.pycharm/
+
+# OS Specific Files
+Thumbs.db
+
+# Documentation
+docs/
+*.md
+*.rst
+
+# Test Data
+fixtures/
+
+# Static Assets (if using external storage)
+static/
+media/
